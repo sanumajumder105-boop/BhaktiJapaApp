@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Bhakti Japa App",
+    "slug": "bhakti-japa-app",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.sanu.bhaktijapaapp"
+    }
+  }
+}
